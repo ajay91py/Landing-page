@@ -29,12 +29,14 @@ ul {
     display: flex;
     justify-content: space-evenly;  
     align-items: center; 
+    margin-right: auto;
  }
 
  ul {
     display: flex;
     justify-content: space-evenly;
     gap: 15px;
+    margin-left: auto;
  }
  .hero {
     align-items: flex-start;
